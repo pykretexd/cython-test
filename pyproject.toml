@@ -1,5 +1,5 @@
 [project]
-name = "cython_test"
+name = "cython_tes"
 version = "1.0"
 requires-python = ">=3.12,<3.13"
 
