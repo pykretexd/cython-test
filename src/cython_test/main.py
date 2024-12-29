@@ -4,7 +4,7 @@ from py_prime_finder import py_prime_finder
 
 
 def main():
-    n = 10000
+    n = 1000
 
     c_start = perf_counter()
     c_prime_finder(n)
